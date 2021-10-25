@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "Name": "Pediatrics",
+      "desctiption": "A paediatrician is a childs physician who provides not only medical care for children who are acutely or chronically ill but also preventive health services for healthy children. A paediatrician manages physical, mental, and emotional well-being of the children under their care at every stage of development, in both sickness and health.",
+      "image": "https://i.ibb.co/1spprfx/pedriatic.jpg"
+    },
+    {
+      "id": 2,
+      "Name": "MRI of the brain",
+      "desctiption": "Magnetic resonance imaging (MRI) is a medical imaging technique that uses a magnetic field and computer-generated radio waves to create detailed images of the organs and tissues in your body Most MRI machines are large, tube-shaped magnets. When you lie inside an MRI machine, the magnetic field temporarily realigns water molecules in your body. Radio waves cause these aligned atoms to produce faint signals, which are used to create cross-sectional MRI images — like slices in a loaf of bread.",
+      "image": "https://i.ibb.co/wpG05MN/Mri.jpg"
+    },
+    {
+      "id": 3,
+      "Name": "Xray Diagnostic",
+      "desctiption": "Diagnostic X-ray, or radiography, is a special method for taking pictures of areas inside the body. A machine focuses a small amount of radiation on the area of the body to be examined. The X-rays pass through the body, creating an image on film or a computer display.The equipment, staff, and steps involved are different for each type of diagnostic X-ray procedure. However, they are all invaluable tools in detecting abnormalities and making early diagnosis of disease or injury.",
+      "image": "https://i.ibb.co/sgyf4dy/x-ray-diagnostic.jpg"
+    },
+    {
+      "id": 4,
+      "Name": "Laboratory Services",
+      "desctiption": "Core Physicians offers a wide range of on site lab services for blood work, specimen collection and testing. Our highly trained lab technicians and clinicians are committed to providing patients with the highest level of customer satisfaction possible",
+      "image": "https://i.ibb.co/dtd1K2n/laboraratory-service.jpg"
+    },
+    {
+      "id": 5,
+      "Name": "Pregnancy Services",
+      "desctiption": "Whether you need a pregnancy test or are looking for information or services related to your pregnancy options, fertility, prenatal care, or pregnancy loss, Planned Parenthood is here to help.The expert and caring staff at your local Planned Parenthood health center can talk with you about all of your pregnancy-related concerns, and help you get care you need.",
+      "image": "https://i.ibb.co/4Mxsh9j/pregnancy.jpg"
+    },
+    {
+      "id": 6,
+      "Name": "Laser Surgery",
+      "desctiption": "Laser surgery is a type of surgery that uses special light beams instead of instruments, such as scapels, to perform surgical procedures. There are several different types of lasers, each with characteristics that perform specific functions during surgery. Laser light can be delivered either continuously or intermittently and can be used with fiber optics to treat areas of the body that are often difficult to access. The following are some of the different types of laser used for cancer treatment:",
+      "image": "https://i.ibb.co/WcYvsB7/laser-surgery.jpg"
+    }
+  ]
